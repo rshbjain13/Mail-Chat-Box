@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f2f2f2;
+}
+td{
+    font-weight: bold;
+    font-size: 14px;
+    color: #3a3a3a; font-family: Georgia, serif;
+}
+.footer{
+    height: 40px;
+    width:100px;
+    color: #232323;
+    font-size: 12px;
+    font-weight: bold;
+    background: #e3e490;
+}
+.msgbox{
+    font-size: 13px;
+    font-weight: bold;
+    color: #232323;
+    text-align: center;
+    padding: 5px;
+}
+.button	{ background: url(../images/button-bg.png) repeat-x top center; border: 1px solid #999;
+          -moz-border-radius: 5px; padding: 5px; color: black; font-weight: bold;
+          -webkit-border-radius: 5px; font-size: 13px;  width: 110px; }
+.button:hover		{ background: #01064f; color: white; }
+
+.leftlink{
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;
+    color: #77b8ef;
+}
+
+.heading{
+    font-size: 28px;
+    padding: 10px;
+    color: maroon;
+    font-weight: bold;
+    padding-left: 0px;
+    border-bottom: solid 1px #77b8ef;
+}
+.heading_lable{
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: maroon;
+    padding: 3px;
+    text-align: center;
+}
+
+div.topbar{ /* bar that runs across the top of the menu */
+            height: 0px;
+            background: #e16031;
+}
+
+ul.claybricks{ /* main menu UL */
+               font-weight: bold;
+               width: 100%;
+               background: #e3e490;
+               padding: 8px 0 8px 0; /* padding of the 4 sides of the menu */
+               margin: 0;
+               text-align: left; /* set value to "left", "center", or "right" to align menu accordingly */
+}
+
+ul.claybricks li{
+    display: inline;
+}
+
+ul.claybricks li a{
+    color:black;
+    padding: 6px 8px 4px 8px; /* padding of the 4 sides of each menu link */
+    margin-right: 20px; /* spacing between each menu link */
+    text-decoration: none;
+}
+
+
+.login	{ display: block; padding: 4px; margin: 0 0 10px 0; font-size: 14px;
+         color: #3a3a3a; font-family: Georgia, serif;width: 250px;}
+

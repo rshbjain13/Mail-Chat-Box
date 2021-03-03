@@ -1,0 +1,120 @@
+*					{ margin: 0; padding: 0; }
+#main				{ font-family: Georgia, serif; background: url(../images/login-page-bg1.jpg) top center no-repeat #01064f; color: #01064f;  }
+#divfooter			{ font-family: Georgia, serif;  color: #3a3a3a;  }
+
+.clear				{ clear: both; }
+
+#login-form				{ width: 406px; margin: 200px auto 0; }
+
+legend				{ display: none; }
+
+fieldset			{ border: 0; }
+
+label				{ width: 115px; text-align: right; float: left; margin: 0 10px 0 0; padding: 9px 0 0 0; font-size: 16px; }
+
+#login	{ display: block; padding: 4px; margin: 0 0 10px 0; font-size: 18px;
+            color: #3a3a3a; font-family: Georgia, serif;}
+
+.login	{ display: block; padding: 4px; margin: 0 0 10px 0; font-size: 16px;
+            color: #3a3a3a; font-family: Georgia, serif;width: 220px;}
+#password				{ display: block; padding: 4px; margin: 0 0 10px 0; font-size: 18px;
+               color: #3a3a3a; font-family: Georgia, serif;}
+
+.radioclass				{ width: 220px; display: block; padding: 4px; margin: 0 0 10px 0; font-size: 18px;
+                 color: #3a3a3a; font-family: Georgia, serif;}
+select				{ display: block; padding: 4px; margin: 0 0 10px 0; font-size: 12px;
+            color: #3a3a3a; font-family: Georgia, serif;}
+input[type=checkbox]{ width: 20px; margin: 0; display: inline-block; }
+
+.button				{ background: url(../images/button-bg.png) repeat-x top center; border: 1px solid #999;
+             -moz-border-radius: 5px; padding: 5px; color: black; font-weight: bold;
+             -webkit-border-radius: 5px; font-size: 13px;  width: 70px; }
+.button:hover		{ background: #01064f; color: white; }
+
+.f_pass{
+    width: 115px; text-align: right;  float: left; margin: 0 10px 0 0; padding: 9px 0 0 0; font-size: 16px; color:#01064f;text-decoration:none;
+}
+#new_acc{
+    width: 115px; text-align: right;  float: left; margin: 0 10px 0 0; padding: 9px 0 0 0; font-size: 16px; color:#01064f;text-decoration:none;
+}
+.heading{
+    width: 115px; font-weight:bold; font-size: 20px; color:#6e6e6e;text-decoration:none;
+}
+.field{
+    background-color: #DAE8EC;
+
+    border: 2px solid #B8CB99;
+    padding: 2px;
+
+}
+.button-border {
+    border: 1px solid #981234;
+    background-color: #BFD5EE;
+}
+.form-field
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration:none;
+    font-size: 11px;
+
+    color: #333333;
+
+}
+
+.paneheading
+{
+
+
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration:none;
+    font-size: 15px;
+    text-align:center;
+    font-weight:bold;
+    color: white;
+    background-color:gray;
+
+}
+.form-field11
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration:none;
+    font-size: 7px;
+
+    color: #333333;
+
+}
+.form-fieldw
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-decoration:none;
+    font-size: 11px;
+
+    color: #ffffff;
+
+}
+.prompt {
+    font-weight:lighter;
+    font-size: 11px; color: red; font-style: oblique;font-family: Geneva,Arial,Helvetica,sans-serif;
+
+}
+
+.mybox {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #C0D0E0;
+
+}
+
+.odd{
+
+    font-family: Arial,Helvetica,sans-serif;background-color: #99ff99;margin-left: 10px;font-size: 12px;cursor: pointer;
+}
+.even{
+
+    font-family: Arial,Helvetica,sans-serif;
+    background-color: #ffcccc;
+    margin-left: 10px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.highlight { background-color: #8888FF }
